@@ -1,5 +1,5 @@
-def lectura():
-    file = open("C:/Users/User/Documents/MINTIC_2022/PROYECTOS_T/BASE_ICFES/2021-1.txt","r", encoding="utf8")
+def lectura():"
+    file = open("#insertar ruta de archivo","r, encoding="utf8")
     line= file.readline()
     header=[]
     matriz_data=[]
